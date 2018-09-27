@@ -35,3 +35,8 @@ xy.lm0<-lm(y~0+x)
 xy.lm1<-lm(y~x)
 summary(xy.lm0)
 summary(xy.lm1)
+
+predict(xy.lm1,newdata=data.frame(x=c(10000,20000,30000)),interval = "confidence")
+
+y.hat<-coef(xy.lm1)[1]+coef(xy.lm1)[2]*20000
+s<-sqrt(var(xy.lm1$residuals)*(1+1/10+(20000-mean(x))/sum((x-mean(x))^2)))
