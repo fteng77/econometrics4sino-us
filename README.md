@@ -6,7 +6,7 @@
 现在基本没人用了
 
 1. Eviews
-早期国内最流行的计量经济学软件，特别是时间序列分析，胜在傻瓜操作。链接：https://pan.baidu.com/s/1BkshkPDNxXnCpPyFngZYsw 密码：1rvl。毫无疑问，这是学习版本，请谨慎使用。
+早期国内最流行的计量经济学软件，特别是时间序列分析，胜在傻瓜操作。链接：https://pan.baidu.com/s/1BkshkPDNxXnCpPyFngZYsw 密码：1rvl。毫无疑问，这是学（dao）习（ban）版本，请谨慎使用。
 
 1. Stata
 当前最流行的计量经济学软件，可以进行一定的编程
