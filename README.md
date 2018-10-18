@@ -18,4 +18,4 @@
 主流统计学软件，几乎没有之一，遗憾的是我不会
 
 1. R
-主流统计软件或者说是统计环境，几乎无所不能，强烈推荐。链接：r-project.org
+主流统计软件或者说是统计环境，几乎无所不能，强烈推荐。链接：r-project.org。rstudio下载地址：链接: https://pan.baidu.com/s/1DniUuxhj_9_euXVR0NZg4g 提取码: rd8n
